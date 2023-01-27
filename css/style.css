@@ -1,0 +1,111 @@
+header {
+    padding-left: 69px;
+    padding-top: 34px;
+    padding-bottom: 106px;
+    margin: 0 auto;
+}
+
+.logo {
+    vertical-align: middle;
+    margin-right: 312px;
+}
+
+nav {
+    display: inline-block;
+    vertical-align: middle;
+    padding-right: 117px;
+}
+
+li {
+    margin-right: 83px;
+    display: inline-block;
+    font-size: 32px;
+    font-family: 'Nerko One';
+}
+
+.active {
+    color: #FA1A35;
+}
+
+li a {
+    color: #0F5009;
+}
+
+section {
+    background-color: #1F6519;
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.section_img {
+    padding-left: 69px;
+    padding-top: 110px;
+    padding-bottom: 154px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 96px;
+}
+
+div {
+    display: inline-block;
+    color: #FFFFFF;
+    font-style: italic;
+    width: 448px;
+    padding-right: 61px;
+    vertical-align: middle;
+    padding-top: 110px;
+    padding-bottom: 154px;
+}
+
+h1 {
+    font-family: 'Nerko One';
+    font-size: 36px;
+    text-align: center;
+}
+
+.section_text {
+    font-family: 'PT Serif';
+    font-size: 32px;
+    margin-top: 35px;
+}
+
+article {
+    text-align: center;
+    padding: 92px 216px 137px 207px;
+    margin: 0 auto;
+}
+
+.article_h {
+    color: #0F5009;
+    font-family: 'PT Serif';
+    font-size: 40px;
+    margin-bottom: 92px;
+}
+
+.article_text {
+    color: #1F6519;
+    font-size: 36px;
+    font-family: 'PT Serif';
+}
+
+footer {
+    background-color: #1F6519;
+    width: 1440px;
+    margin: 0 auto;
+   
+}
+
+.footer_logo {
+    display: inline-block;
+    margin-right: 617px;
+    margin: 74px 617px 73px 109px;
+    vertical-align: middle;
+}
+
+.footer_text {
+    display: inline-block;
+    font-size: 24px;
+    color: #FFFFFF;
+    font-family: 'Nerko One';
+    vertical-align: middle;
+}
